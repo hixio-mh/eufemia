@@ -96,7 +96,7 @@
     "eslint-plugin-react-hooks": "^4.1.2",
     "front-matter": "^4.0.2",
     "fs-extra": "^9.0.1",
-    "gatsby": "^2.24.62",
+    "gatsby": "^3.0.0",
     "gatsby-link": "^2.4.14",
     "gatsby-plugin-algolia": "^0.12.1",
     "gatsby-plugin-catch-links": "^2.3.12",
