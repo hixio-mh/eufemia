@@ -213,7 +213,7 @@
     "sass-loader": "^10.0.2",
     "sass-variable-parser": "^1.2.2",
     "scss-to-json": "^2.0.0",
-    "semantic-release": "16.0.4",
+    "semantic-release": "17.3.1",
     "simple-commit-message": "^4.0.13",
     "simple-git": "^2.20.1",
     "stream-buffers": "^3.0.2",
