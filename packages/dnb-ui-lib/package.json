@@ -215,7 +215,7 @@
     "scss-to-json": "^2.0.0",
     "semantic-release": "16.0.4",
     "simple-commit-message": "^4.0.13",
-    "simple-git": "^2.20.1",
+    "simple-git": "^3.16.0",
     "stream-buffers": "^3.0.2",
     "style-loader": "^1.2.1",
     "stylelint": "^13.7.1",
